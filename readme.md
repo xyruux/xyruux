@@ -14,7 +14,7 @@ I'm a full-stack developer with experience in:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cy-m&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xyruux&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/-My%20Website-000?style=for-the-badge&logo=web&logoColor=white)](https://your-website.com)
