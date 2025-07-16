@@ -10,17 +10,7 @@ I'm a full-stack developer with experience in:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xyruux&label=Profile%20views&color=0e75b6&style=flat" alt="xyruux" />
 </p>
-
---- 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xyruux&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyruux&layout=compact&theme=tokyonight" />
-</p>
-
----
+ 
 
 ### 🚀 GitHub Metrics (Commits, Contributions, Repos)
 
