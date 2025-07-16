@@ -15,7 +15,7 @@ I'm a full-stack developer with experience in:
 ### 🚀 GitHub Metrics (Commits, Contributions, Repos)
 
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=xyruux&template=classic&config.timezone=Asia%2FManila" alt="GitHub metrics for xyruux" />
+  <img src="https://github-metrics.vercel.app/api?username=xyruux&template=tokyonight&config.timezone=Asia%2FManila" alt="GitHub metrics for xyruux" />
 </p>
 
 ---
