@@ -1,4 +1,7 @@
 # Hi there, I'm Cy 👋
+I don't ussually push, bc All my works are already done and only do some maintainance thing... 
+
+
 
 I'm a full-stack developer with experience in:
 
